@@ -1,0 +1,12 @@
+{
+    "description": "A about me site for me.",
+    "repo": "https://github.com/ArmaanAli215/about.github.io",
+    "owner": {
+        "username": "ArmaanAli215",
+        "email": "armansyedali95op@gmail.com",
+        "twitter": "<twitter-username>"
+    },
+    "record": {
+        "CNAME": "armaanali215.github.io"
+    }
+} 
